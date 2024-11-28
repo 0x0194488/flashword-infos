@@ -31,17 +31,17 @@ By using the Bot, you agree to:
 ---
 
 ## 6. Changes to the Terms
-These Terms of Service may be updated at any time. You will be notified of changes via **[notification method, e.g., a specific channel or a command]**.
+These Terms of Service may be updated at any time.
 
 ---
 
 ## 7. Support and Contact
-For questions or issues related to the Bot, please join **[discord.gg/botfw]**.
+For questions or issues related to the Bot, please join [discord.gg/botfw].
 
 ---
 
 ## 8. Intellectual Property
-The code, design, and features of **[Flashworld - Présence]** are the property of **[dix]**. Unauthorized reproduction or modification is prohibited.
+The code, design, and features of [Flashworld - Présence] are the property of **[dix]**. Unauthorized reproduction or modification is prohibited.
 
 ---
 
