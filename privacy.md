@@ -25,32 +25,42 @@ We do not process or analyze this data for any purpose outside of the Bot's core
 ---
 
 ## 4. Data Storage and Retention
-- **Storage**: The collected IDs are securely stored.
-- **Retention**: Data is retained only as long as necessary for the Bot to function.
+- **Storage**: The collected IDs are securely stored with access limited to authorized personnel.
+- **Retention**: Data is retained as long as necessary for the Bot to function and for up to 30 days after removal of the Bot from a server. After that, data is permanently deleted.
+
 ---
 
 ## 5. Data Sharing
-- We do not share, sell, or trade your data with any third parties, except:
+We do not share, sell, or trade your data with any third parties under any circumstances.
 
 ---
 
 ## 6. Your Data Rights
 You have the right to:
-- **Request Deletion**: You can request the deletion of any data associated with you by contacting us via **[[discord.gg/botfw](https://discord.gg/botfw)]**.
+- **Request Deletion**: You can request the deletion of any data associated with you by contacting us via **[discord.gg/botfw](https://discord.gg/botfw)**.
 - **Stop Data Collection**: You can stop data collection by removing the Bot from your server.
 
 ---
 
 ## 7. Security
-We take reasonable measures to protect the collected data against unauthorized access, loss, or misuse. However, no method of electronic storage is completely secure, and we cannot guarantee absolute security.
+We take reasonable measures to protect the collected data against unauthorized access, loss, or misuse, including:
+- **Encryption**: Industry-standard encryption to protect data in transit.
+- **Access Controls**: Restricting access to stored data to authorized personnel only.
+
+However, no method of electronic storage is completely secure, and we cannot guarantee absolute security.
 
 ---
 
-## 8. Changes to This Privacy Policy
-This Privacy Policy may be updated from time to time.
+## 8. Compliance
+We comply with applicable data protection laws, including the General Data Protection Regulation (GDPR) where applicable.
 
 ---
 
-## 9. Contact
-If you have any questions or concerns about this Privacy Policy, please contact us at **[[discord.gg/botfw](https://discord.gg/botfw)]**.
+## 9. Changes to This Privacy Policy
+This Privacy Policy may be updated from time to time. Significant changes will be communicated through the bot's announcement channel or on our website.
 
+---
+
+## 10. Contact
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+- **Discord**: [discord.gg/botfw](https://discord.gg/botfw)
